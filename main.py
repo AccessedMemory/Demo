@@ -1,0 +1,1 @@
+print('Joe is a friend and we can trust him.')
